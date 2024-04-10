@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wHeIF2JXgDBQLW0W35zUHx90j/zqZUXNkb/VdmiiRVqoD8wTE4O5cGXiSqy3dR6B8eg/b6GBrNQAHMC5+RN+6Q==",
+  "dgSpecHash": "lGGAXk7lB0o7Mo4+vCng18PkqM4z8iL7Kq8NaxlEtVyL1cm7D+vZI6QjmIlwvVS73M6bTRAJs4CiJZZSFqM8tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\steve\\Desktop\\Udemy\\Web API con C# y ASP.Net Core\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj",
+  "projectFilePath": "C:\\Users\\steve\\Desktop\\Udemy\\SourceTree\\Prueba\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

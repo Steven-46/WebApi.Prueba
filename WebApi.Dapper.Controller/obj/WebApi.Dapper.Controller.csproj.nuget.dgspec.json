@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\Desktop\\Udemy\\Web API con C# y ASP.Net Core\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj": {}
+    "C:\\Users\\steve\\Desktop\\Udemy\\SourceTree\\Prueba\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\Desktop\\Udemy\\Web API con C# y ASP.Net Core\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj": {
+    "C:\\Users\\steve\\Desktop\\Udemy\\SourceTree\\Prueba\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\Desktop\\Udemy\\Web API con C# y ASP.Net Core\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj",
+        "projectUniqueName": "C:\\Users\\steve\\Desktop\\Udemy\\SourceTree\\Prueba\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj",
         "projectName": "WebApi.Dapper.Controller",
-        "projectPath": "C:\\Users\\steve\\Desktop\\Udemy\\Web API con C# y ASP.Net Core\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj",
+        "projectPath": "C:\\Users\\steve\\Desktop\\Udemy\\SourceTree\\Prueba\\WebApi.Dapper.Controller\\WebApi.Dapper.Controller.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\Desktop\\Udemy\\Web API con C# y ASP.Net Core\\WebApi.Dapper.Controller\\obj\\",
+        "outputPath": "C:\\Users\\steve\\Desktop\\Udemy\\SourceTree\\Prueba\\WebApi.Dapper.Controller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
